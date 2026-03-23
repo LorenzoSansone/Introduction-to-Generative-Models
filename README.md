@@ -27,3 +27,8 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - Experiment with custom datasets  
 - Document learnings and insights  
 
+---
+
+## 📚 Bibliography
+
+- Dreambooth website: https://dreambooth.github.io/
