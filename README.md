@@ -33,4 +33,5 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 
 - *Dreambooth website* — https://dreambooth.github.io/
 - *Flow matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
-- *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/ 
+- *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/
+- *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
