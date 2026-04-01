@@ -41,6 +41,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *Dreambooth website* — https://dreambooth.github.io/
 - *DDPM vs DDIM* — https://www.youtube.com/watch?v=r4V0vLhYZIQ
 - *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis* — https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb
+- *Diffusers library (Huggingface)* — https://huggingface.co/docs/diffusers/index
 
 **Flow matching models**:
 - *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
