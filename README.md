@@ -30,9 +30,24 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 ---
 
 ## 📚 Bibliography
+
+Introduction:
 - *Introduction to Generative models (by Google)* — https://developers.google.com/machine-learning/gan/generative
+
+GANs:
+- *Introduction to GANs (by Google)* https://developers.google.com/machine-learning/gan/gan_structure
+
+Diffusion models:
 - *Dreambooth website* — https://dreambooth.github.io/
-- *Flow matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
-- *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/
-- *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
+- *DDPM vs DDIM* — https://www.youtube.com/watch?v=r4V0vLhYZIQ
 - *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis* — https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb
+
+Flow matching:
+- *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
+
+Comparison:
+- *Flow matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
+
+General:
+- *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/
+- *Generative Deep Learning (David Foster)*
