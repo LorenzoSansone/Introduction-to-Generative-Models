@@ -31,10 +31,10 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 
 ## 📚 Bibliography
 
-Introduction:
+**Introduction**:
 - *Introduction to Generative models (by Google)* — https://developers.google.com/machine-learning/gan/generative
 
-GANs:
+**GANs**:
 - *Introduction to GANs (by Google)* https://developers.google.com/machine-learning/gan/gan_structure
 
 Diffusion models:
