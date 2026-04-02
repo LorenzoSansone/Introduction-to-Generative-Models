@@ -33,6 +33,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 
 **Introduction**:
 - *Introduction to Generative models (by Google)* — https://developers.google.com/machine-learning/gan/generative
+- *Generative AI* — https://www.ibm.com/think/topics/generative-ai#257779831
 
 **GANs**:
 - *Introduction to GANs (by Google)* https://developers.google.com/machine-learning/gan/gan_structure
