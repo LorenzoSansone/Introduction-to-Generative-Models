@@ -36,9 +36,11 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *Generative AI (by IBM)* — https://www.ibm.com/think/topics/generative-ai#257779831
 
 **GANs**:
-- *Introduction to GANs (by Google)* https://developers.google.com/machine-learning/gan/gan_structure
+- *Introduction to GANs (by Google)* — https://developers.google.com/machine-learning/gan/gan_structure
+- *What is a GAN? (by IBM)* — https://www.ibm.com/think/topics/generative-adversarial-networks#186915250
 
 **Diffusion models**:
+- *What is a Diffusion model? (by IBM)* — https://www.ibm.com/think/topics/diffusion-models
 - *Dreambooth website* — https://dreambooth.github.io/
 - *DDPM vs DDIM* — https://www.youtube.com/watch?v=r4V0vLhYZIQ
 - *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis* — https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb
