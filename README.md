@@ -53,6 +53,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *Flow Matching for generative modeling* — https://arxiv.org/abs/2210.02747
 - *Flow Matching from scratch* — https://ai.gopubby.com/from-noise-to-structure-building-a-flow-matching-model-from-scratch-f1ca12b31602
 - *Facebook Research Github Repo* — https://github.com/facebookresearch/flow_matching/
+- *Flow Matching Guide and Code* — https://arxiv.org/abs/2412.06264
 
 **VAEs**:
 - *What is a VAEs? (by IBM)* — "https://www.ibm.com/it-it/think/topics/variational-autoencoder
