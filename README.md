@@ -50,6 +50,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 
 **Flow matching models**:
 - *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
+- *Flow matching for generative modeling* — https://arxiv.org/abs/2210.02747
 
 **VAEs**:
 - *What is a VAEs? (by IBM)* — "https://www.ibm.com/it-it/think/topics/variational-autoencoder
