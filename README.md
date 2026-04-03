@@ -48,16 +48,18 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation* — https://multidiffusion.github.io/
 - *MultiDiffusion explanation paper (by Omer Bar-Tal)* — https://www.youtube.com/watch?v=Rx6HR2teD88
 
-**Flow matching models**:
+**Flow Matching models**:
 - *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
-- *Flow matching for generative modeling* — https://arxiv.org/abs/2210.02747
+- *Flow Matching for generative modeling* — https://arxiv.org/abs/2210.02747
+- *Flow Matching from scratch* — https://ai.gopubby.com/from-noise-to-structure-building-a-flow-matching-model-from-scratch-f1ca12b31602
+- *Facebook Research Github Repo* — https://github.com/facebookresearch/flow_matching/
 
 **VAEs**:
 - *What is a VAEs? (by IBM)* — "https://www.ibm.com/it-it/think/topics/variational-autoencoder
 
 **Comparison**:
-- *Flow matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
-- *Flow matching and Diffusion Model (course by MIT)* — https://diffusion.csail.mit.edu/2026/index.html
+- *Flow Matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
+- *Flow Matching and Diffusion Model (course by MIT)* — https://diffusion.csail.mit.edu/2026/index.html
 
 **General**:
 - *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/
