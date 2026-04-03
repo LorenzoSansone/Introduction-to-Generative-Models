@@ -44,7 +44,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis* — https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb
 - *Diffusers library (Huggingface)* — https://huggingface.co/docs/diffusers/index
 - *MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation* — https://multidiffusion.github.io/
-- *MultiDiffusion explanation (by Omer Bar-Tal)* — https://www.youtube.com/watch?v=Rx6HR2teD88
+- *MultiDiffusion explanation paper (by Omer Bar-Tal)* — https://www.youtube.com/watch?v=Rx6HR2teD88
 
 **Flow matching models**:
 - *Introductio to Flow Matching* — https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
