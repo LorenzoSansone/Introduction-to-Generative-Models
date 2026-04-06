@@ -45,7 +45,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - *DDPM vs DDIM* — https://www.youtube.com/watch?v=r4V0vLhYZIQ
 - *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis* — https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb
 - *Diffusers library (Huggingface)* — https://huggingface.co/docs/diffusers/index
-- *Classifier guidance vs Classifier-free guidance * — https://medium.com/@baicenxiao/understand-classifier-guidance-and-classifier-free-guidance-in-diffusion-model-via-python-e92c0c46ec18
+- *Classifier guidance vs Classifier-free guidance* — https://medium.com/@baicenxiao/understand-classifier-guidance-and-classifier-free-guidance-in-diffusion-model-via-python-e92c0c46ec18
 - *MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation* — https://multidiffusion.github.io/
 - *MultiDiffusion explanation paper (by Omer Bar-Tal)* — https://www.youtube.com/watch?v=Rx6HR2teD88
 - *ControlNet* — https://arxiv.org/abs/2302.05543
