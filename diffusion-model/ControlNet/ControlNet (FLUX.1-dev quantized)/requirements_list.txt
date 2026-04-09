@@ -1,0 +1,3 @@
+pip install -q diffusers transformers accelerate bitsandbytes sentencepiece protobuf
+pip install --upgrade diffusers huggingface_hub
+pip install matplotlib
