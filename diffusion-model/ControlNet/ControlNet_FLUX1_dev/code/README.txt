@@ -1,0 +1,1 @@
+1) run python3 ControlNet_FLUX1_dev.py
