@@ -38,6 +38,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 **GANs**:
 - *Introduction to GANs (by Google)* — https://developers.google.com/machine-learning/gan/gan_structure
 - *What is a GAN? (by IBM)* — https://www.ibm.com/think/topics/generative-adversarial-networks#186915250
+- *GANS with pytorch* — https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f
 
 **Diffusion models**:
 - *What is a Diffusion model? (by IBM)* — https://www.ibm.com/think/topics/diffusion-models
