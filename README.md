@@ -66,6 +66,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 **Comparison**:
 - *Flow Matching vs Diffusion Model* — https://www.youtube.com/watch?v=firXjwZ_6KI
 - *Flow Matching and Diffusion Model (course by MIT)* — https://diffusion.csail.mit.edu/2026/index.html
+- *Diffusion and Large Vision Models (course by Standford)* — https://cme296.stanford.edu/syllabus/
 
 **General**:
 - *Understanding Deep Learning (J.D. Prince)* — https://udlbook.github.io/udlbook/
