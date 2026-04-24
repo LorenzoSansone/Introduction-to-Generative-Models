@@ -53,7 +53,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 - 📺 [MultiDiffusion explanation paper](https://www.youtube.com/watch?v=Rx6HR2teD88) — *Omer Bar-Tal* 
 - 📄 [ControlNet](https://arxiv.org/abs/2302.05543)
 - 📝 [ControlNet explained paper](https://medium.com/@NeereshPerla/controlnet-explained-bringing-greater-control-to-diffusion-models-d1e99b3aa389) — *Neeresh Perla*
-- 🔗*[UltraZoom](https://ultra-zoom.github.io/)
+- 🔗 [UltraZoom](https://ultra-zoom.github.io/)
 
 **🔃 Flow Matching**:
 - 📝 [Introductio to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
