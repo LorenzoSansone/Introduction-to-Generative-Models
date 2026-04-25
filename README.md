@@ -44,6 +44,7 @@ The goal is to combine **theory + hands-on experiments** to build intuition and 
 
 **🌊 Diffusion Models**:
 - 📝 [What is a Diffusion model?](https://www.ibm.com/think/topics/diffusion-models) — *IBM*
+- 📝[DPM](https://medium.com/data-science/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
 - 🔗 [Dreambooth website](https://dreambooth.github.io/)
 - 📺 [DDPM vs DDIM](https://www.youtube.com/watch?v=r4V0vLhYZIQ)
 - 📄 [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://medium.com/%40pietrobolcato/stable-diffusion-3-explained-84fd085934cb)
